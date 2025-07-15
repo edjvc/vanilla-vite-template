@@ -5,7 +5,7 @@ npm install
 npm run dev
 ```
 
-**建立新專案後請記得全域搜尋並替換 vanilla-vite-template 為你的實際專案名稱**
+**After creating a new project remember to search and replace all instances of "vanilla-vite-template" with your actual project name.**
 - vite.config.js
 - index.html
 - package.json
